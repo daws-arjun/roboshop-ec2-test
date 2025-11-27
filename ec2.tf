@@ -17,4 +17,3 @@ output "priv_ip" {
 output "id" {
     value = module.catalogue.instance_id
 }
-
